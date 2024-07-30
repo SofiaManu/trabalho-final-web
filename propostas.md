@@ -27,15 +27,26 @@ Alunos ingressos na rede de ensino e comunidade escolar (pais e outros interessa
 
 # Proposta 02
 
-## Nome da proposta
+## Site do Ateliê Sabor de Mel
 
 ### Descrição
+Site para o Ateliê Sabor de Mel, da artesã Katrine Cardoso de Souza, a fim de divulgar os produtos dessa microemprendedora individual e facilitar aos clientes a realização de encomendas.
 
 ### Problema a ser solucionado
+A dinâmica entre a artesã e os clientes tem se dado, na maioria das vezes, presencialmente (exigindo o deslocamento do cliente), pelo WhatsApp ou pelo Instagram (sistemas limitados em funcionalidades voltadas a vendedores), dificultando, assim, a relação entre ambas as partes. Nesse viés, com um site rechado de informações e um sistema de e-commerce integrado, pretende-se melhorar essa situação.
 
 ### Público-alvo
+Pessoas interessadas em acessórios.
 
 ### Funcionalidades
+1. Categorias: dividir os produtos em categorias (por exemplo, "laços", "tiaras", "presilhas" etc.).
+2. Galeria de Produtos: fotos de alta qualidade dos produtos, com descrições detalhadas e preços.
+3. Filtro de Pesquisa: ferramenta para facilitar a busca por produtos específicos.
+4. Informações de Contato: endereço de e-mail, telefone, e links para as redes sociais.
+5. Mapa: um mapa interativo mostrando a localização do ateliê.
+6. Carrinho de Compras: sistema de e-commerce integrado para facilitar a compra dos produtos.
+7. Produtos em Destaque: uma seção com imagens e descrições de alguns dos produtos mais populares.
+8. Depoimentos: comentários de clientes satisfeitos.
 
 ---
 
